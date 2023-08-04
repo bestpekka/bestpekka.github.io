@@ -1,0 +1,18 @@
+.component-container {
+  display: flex;
+  position: relative;
+}
+.component-navlink {
+  text-decoration: none;
+}
+.component-text {
+  text-decoration: none;
+}
+.component-root-class-name {
+  align-self: flex-start;
+}
+@media(max-width: 479px) {
+  .component-navlink {
+    text-align: center;
+  }
+}

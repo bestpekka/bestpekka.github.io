@@ -1,0 +1,20 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-link {
+  text-decoration: none;
+}
+.component1-text {
+  text-decoration: none;
+}
+.component1-root-class-name {
+  left: 134px;
+  bottom: -214px;
+  position: absolute;
+}
+@media(max-width: 479px) {
+  .component1-link {
+    text-align: center;
+  }
+}
